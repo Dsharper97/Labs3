@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Labs3</string>
+    <array name="colorSelection">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Purple</item>
+        <item>Gray</item>
+        <item>Orange</item>
+        <item>Brown</item>
+        <item>Pink</item>
+        <item>Teal</item>
+    </array>
 </resources>
